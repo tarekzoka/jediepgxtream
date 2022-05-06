@@ -8,6 +8,9 @@
 echo
 
 opkg install --force-overwrite  https://github.com/tar1971/feeds-finder/blob/main/feeds-finder_V1.6_py2_all.ipk?raw=true
+wait
+echo
+dpkg -i --force-overwrite /tmp/*.deb https://github.com/tar1971/feeds-finder/blob/main/feeds-finder_V1.6_py2_all.ipk?raw=true
 echo ". >>>>         RESTARING     <<<<"
 echo "**********************************************************************************"
 wait
