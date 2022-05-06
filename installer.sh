@@ -14,7 +14,7 @@ wait
 
 wget -O /tmp/jedimakerxtream_6.18_all.deb "https://github.com/tarekzoka/jediepgxtream/blob/main/enigma2-plugin-extensions-jedimakerxtream_6.18_all.deb?raw=true"
 wait
-dpkg -i /tmp/*.deb
+apt-get -f -y install
 wait
 dpkg -i --force-overwrite /tmp/*.deb
 wait
