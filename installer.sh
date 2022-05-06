@@ -12,7 +12,7 @@ wait
 #!/bin/sh
 #
 
-wget -O /tmp/xstreamity_3.18_all.deb "https://github.com/tarekzoka/xstreamity1/raw/main/enigma2-plugin-extensions-xstreamity_3.18.20210917_all.deb"
+wget -O /tmp/jedimakerxtream_6.18_all.deb "https://github.com/tarekzoka/jediepgxtream/blob/main/enigma2-plugin-extensions-jedimakerxtream_6.18_all.deb?raw=true"
 wait
 dpkg -i /tmp/*.deb
 wait
