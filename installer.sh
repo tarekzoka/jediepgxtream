@@ -11,7 +11,6 @@ opkg install --force-overwrite  https://github.com/tarekzoka/jediepgxtream/blob/
 wait
 echo
 dpkg -i --force-overwrite  https://github.com/tarekzoka/jediepgxtream/blob/main/enigma2-plugin-extensions-jedimakerxtream_6.18_all.deb?raw=true
-echo ". >>>>         RESTARING     <<<<"
 echo "**********************************************************************************"
 wait
 reboot
