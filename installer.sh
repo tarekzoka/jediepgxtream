@@ -9,7 +9,7 @@ echo
 
 # MY CONFIG SCRIPT #
 ###########################################
-PACKAGE_DIR='oscam/main'
+PACKAGE_DIR='jediepgxtream/main'
 MY_IPK="enigma2-plugin-extensions-jedimakerxtream_6.18_all.ipk"
 MY_DEB="enigma2-plugin-extensions-jedimakerxtream_6.18_all.deb"
 
