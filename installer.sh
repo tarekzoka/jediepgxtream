@@ -11,7 +11,7 @@ echo
 ###########################################
 PACKAGE_DIR='jediepgxtream/main'
 MY_IPK="enigma2-plugin-extensions-jedimakerxtream_6.21_all.ipk"
-MY_DEB="enigma2-plugin-extensions-jedimakerxtream_6.17_all.deb"
+MY_DEB="enigma2-plugin-extensions-jedimakerxtream_6.18_all.deb"
 
 
 ######################################################################################
