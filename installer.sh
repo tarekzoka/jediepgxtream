@@ -10,8 +10,8 @@ echo
 # MY CONFIG SCRIPT #
 ###########################################
 PACKAGE_DIR='jediepgxtream/main'
-MY_IPK="enigma2-plugin-extensions-jedimakerxtream_6.18_all.ipk"
-MY_DEB="enigma2-plugin-extensions-jedimakerxtream_6.18_all.deb"
+MY_IPK="enigma2-plugin-extensions-jedimakerxtream_6.21_all.ipk"
+MY_DEB="enigma2-plugin-extensions-jedimakerxtream_6.21_all.deb"
 
 
 ######################################################################################
@@ -33,7 +33,7 @@ echo ''
 echo '************************************************************'
 echo '**                         STARTED                        **'
 echo '************************************************************'
-#            # WRITE Script By  Biko_73 #                
+#            # WRITE Script  #                
 # AND MODIFY Script To Work Emu OScam BY    
  #  EMIL_NABIL  #
 echo "************************************************************"
